@@ -1,0 +1,84 @@
+{
+  "title": "Tor's Chult",
+  "description": "High quality maps and tiles for various locations and Adventure League modules in Tomb of Annihilation.",
+  "version": "1.0.0",
+  "url": "https://github.com/grimmash/tors-chult",
+  "manifest": "https://raw.githubusercontent.com/grimmash/tors-chult/main/module.json",
+  "download": "https://github.com/grimmash/tors-chult/archive/refs/tags/v1.0.0.zip",
+  "packs": [
+    {
+      "name": "tor_chult_scenes",
+      "label": "Tor's Chult Scenes",
+      "system": "dnd5e",
+      "path": "packs/tor-chult-scenes.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_chult_ddal0714",
+      "label": "Tor's Chult Fathomless Pits",
+      "system": "dnd5e",
+      "path": "packs/tor-chult-ddal0714.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_chult_ddal0715",
+      "label": "Tor's Chult Streams of Crimson",
+      "system": "dnd5e",
+      "path": "packs/tor-chult-ddal0715.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    },
+    {
+        "name": "tor_chult_ddal0716",
+        "label": "Tor's Chult Pools of Cerulean",
+        "system": "dnd5e",
+        "path": "packs/tor-chult-ddal0716.db",
+        "type": "Scene",
+        "private": false,
+        "flags": {}
+    },
+    {
+      "name": "tor_chult_ddal0717",
+      "label": "Tor's Chult Cauldron of Sapphire",
+      "system": "dnd5e",
+      "path": "packs/tor-chult-ddal0717.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_chult_ddal0718",
+      "label": "Tor's Chult Turn Back the Endless Night",
+      "system": "dnd5e",
+      "path": "packs/tor-chult-ddal0718.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "tor_chult_journals",
+      "label": "Tor's Chult Journals",
+      "system": "dnd5e",
+      "path": "packs/tor-chult-journals.db",
+      "type": "JournalEntry",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "id": "tors-chult",
+  "authors": [
+    {
+      "name": "Grimmash and Tor",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
