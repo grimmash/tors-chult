@@ -21,9 +21,9 @@ Some maps have complicated assets - Please check the journal entries for each ma
 
 If you have questions, check out either Tor's Emporium Patreon, or Tor's Discord:
 
-Tor's Emporium Patreon
+Tor's Emporium Patreon https://www.patreon.com/torsemporium
 
-Tor's Discord
+Tor's Discord https://discord.gg/BCE8hjYrAZ
 
 Have fun!
 
